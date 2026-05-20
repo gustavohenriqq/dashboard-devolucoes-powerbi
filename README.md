@@ -20,7 +20,7 @@ Dashboard corporativo desenvolvido para acompanhar e analisar devoluções de pr
 ## 📸 Screenshots
 
 ### Página Inicial
-![Início](Tela_Inicial.png)
+![Início](Tela_inicial.png)
 
 ### Controle de Devoluções
 ![Controle](Controle_de_devolucoes.png)
