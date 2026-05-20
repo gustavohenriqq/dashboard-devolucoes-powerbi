@@ -17,6 +17,19 @@ Dashboard corporativo desenvolvido para acompanhar e analisar devoluções de pr
 | **Comparativo 2025 vs 2026** | Análise comparativa entre anos com variação percentual |
 
 ---
+## 📸 Screenshots
+
+### Página Inicial
+![Início](Tela_Inicial.png)
+
+### Controle de Devoluções
+![Controle](Controle_de_devolucoes.png)
+
+### Comparativo 2025 vs 2026
+![Comparativo](Comparativo.png)
+
+
+--- 
 
 ## 🚀 Funcionalidades
 
